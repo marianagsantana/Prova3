@@ -1,5 +1,4 @@
-# Prova3
-Exercício - Sistema de Login
+# Exercício - Sistema de Login
 
 Sistema de controle de acesso
 
@@ -36,8 +35,8 @@ Sistema de controle de acesso
   * Criar Login: Autenticação de Usuário
   * Criar Logout: Remover Sessão
   * Listar sessões
-    * Imprimir usuário está logado
-    * Imprimir se usuário é admin ou user
+  * Imprimir se usuário está logado
+  * Imprimir se usuário é admin ou user
   * Criar Middleware: Verificar se usuário está logado
   * Criar Middleware: Verificar se usuário é admin
   * Criar Middleware: Verificar se usuário é user
