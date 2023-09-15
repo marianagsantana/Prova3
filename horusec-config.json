@@ -1,0 +1,7 @@
+{
+  "horusec": {
+    "project-path": ".",
+    "ignore-severity": ["LOW"],
+    "json-output-file": "horusec-output.json"
+  }
+}
